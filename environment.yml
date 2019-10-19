@@ -1,0 +1,13 @@
+name: research
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - pytorch
+  - scipy
+  - torchvision
+prefix: /home/tester04/.conda/envs/research
+
